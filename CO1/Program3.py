@@ -21,6 +21,7 @@ for i in range(len(number)):
 print("Square of element in the list are")
 squared_numbers = [i ** 2 for i in number]
 print(squared_numbers)
+
 # (c) Form a list of vowels selected from a given word
 word = []
 w = input("Enter the Word")
@@ -41,18 +42,4 @@ i=0
 for i in range(length):
     value=ord(word[i])
     print(word[i],+value)
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
